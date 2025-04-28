@@ -10,8 +10,8 @@ This repo showcases a series of deep learning projects where I built models from
   - ANN using Keras on the **Credit Score** dataset.
 
 - **Convolutional Neural Networks (CNN)**
-  - Custom CNN architectures on **CIFAR-10** and **MNIST** datasets.
-  - Implementation of popular CNN models: **ResNet**, **VGG**, **U-Net**.
+  - Custom CNN architectures on **CIFAR-10** , **MNIST** and **potato-disease-leaf** datasets.
+  - Implementation of popular CNN models: **ResNet**, **VGG**, **U-Net** , **InceptionV3**.
 
 - **Image Segmentation**
   - **Chest CT scans** segmentation.
@@ -26,10 +26,11 @@ This repo showcases a series of deep learning projects where I built models from
 
 ## 📚 Datasets Used
 
-| Dataset         | Task                  | Description                                |
-|-----------------|------------------------|--------------------------------------------|
+| Dataset         | Task                    | Description                               |
+|-----------------|-------------------------|-------------------------------------------|
 | CIFAR-10        | Image Classification    | 10 classes of natural images.             |
 | MNIST           | Image Classification    | Handwritten digit images.                 |
+| potato-disease  | Image Classification    | 3 classes of potato leaf disease.         |
 | Chest CT Scans  | Image Segmentation      | Medical imaging for lung segmentation.    |
 | Oxford Pets     | Image Segmentation      | Segmentation of pet breeds with masks.    |
 | Credit Score    | Tabular Classification  | Customer credit scoring prediction.       |
